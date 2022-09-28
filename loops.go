@@ -19,11 +19,11 @@ func main() {
 	var email string
 	var userTickets int
 
-	fmt.Println("Enter your firstName :\n")
+	fmt.Println("Enter your firstName:\n")
 	fmt.Scan(&firstName)
-	fmt.Println("Enter your lastName :\n")
+	fmt.Println("Enter your lastName:\n")
 	fmt.Scan(&lastName)
-	fmt.Println("Enter your email : \n")
+	fmt.Println("Enter your email: \n")
 	fmt.Scan(&email)
 	fmt.Println("Enter no of tickets you wanna book\n")
 	fmt.Scan(&userTickets)
